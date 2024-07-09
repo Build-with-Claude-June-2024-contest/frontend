@@ -1,0 +1,6 @@
+/* LoginRegisterComponent.css */
+@media (max-width: 767px) {
+  .image-col {
+    display: none !important;
+  }
+}
